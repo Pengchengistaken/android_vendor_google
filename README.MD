@@ -3,7 +3,12 @@
 * It is based on Android P version.
 
 # Screenshot
-
+## Home
+![image](https://github.com/Pengchengistaken/android_vendor_google/blob/master/screenshots/TVHomeLauncher.png)
+## Play Store Apps
+![image](https://github.com/Pengchengistaken/android_vendor_google/blob/master/screenshots/google_play_apps.png)
+## Play Store Games
+![image](https://github.com/Pengchengistaken/android_vendor_google/blob/master/screenshots/google_play_games.png)
 
 # Steps
 1.  Clone this repository to your local drive.
