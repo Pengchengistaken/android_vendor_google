@@ -24,7 +24,7 @@ $(call inherit-product-if-exists, vendor/google/products/gms.mk)
 1. Stuck on setup wizard:
 ```
 su
-mount -o remount,rw /system
+mount -o remount,rw /
 cd /system
 echo "ro.setupwizard.mode=DISABLED" >> build.prop
 reboot
